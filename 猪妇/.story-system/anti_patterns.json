@@ -1,0 +1,57 @@
+[
+  {
+    "text": "男主伤害不够痛",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-005"
+  },
+  {
+    "text": "女主原谅太快",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-005"
+  },
+  {
+    "text": "追悔没有实际代价",
+    "source_table": "题材与调性推理",
+    "source_id": "GR-005"
+  },
+  {
+    "text": "靠强势围堵当浪漫",
+    "source_table": "人设与关系",
+    "source_id": "CH-068"
+  },
+  {
+    "text": "道歉替代赎罪",
+    "source_table": "人设与关系",
+    "source_id": "CH-068"
+  },
+  {
+    "text": "痛苦越多越像有资格被原谅",
+    "source_table": "人设与关系",
+    "source_id": "CH-068"
+  },
+  {
+    "text": "强迫复合",
+    "source_table": "桥段套路",
+    "source_id": "TR-073"
+  },
+  {
+    "text": "伤害后果被轻描淡写",
+    "source_table": "桥段套路",
+    "source_id": "TR-073"
+  },
+  {
+    "text": "只写心跳脸红",
+    "source_table": "裁决规则",
+    "source_id": "RS-012"
+  },
+  {
+    "text": "霸总工具人化",
+    "source_table": "裁决规则",
+    "source_id": "RS-012"
+  },
+  {
+    "text": "现实逻辑悬浮",
+    "source_table": "裁决规则",
+    "source_id": "RS-012"
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "title": "猪妇",
+    "genre": "现言",
+    "genre_label": "现言",
+    "genre_tags": {
+      "route": [],
+      "trope": [],
+      "format": [],
+      "templates": []
+    },
+    "created_at": "2026-06-10",
+    "target_words": 20000,
+    "target_chapters": 13,
+    "golden_finger_name": "",
+    "golden_finger_type": "无金手指",
+    "golden_finger_style": "",
+    "core_selling_points": "胖媳妇净身出户后瘦身病愈，嫁前夫顶头上司五年抱七；前夫'能力强'人设是谎言，无精症秘密被情人反向收割，自爆塌房",
+    "protagonist_structure": "",
+    "heroine_config": "",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "",
+    "co_protagonist_roles": "",
+    "antagonist_tiers": "",
+    "world_scale": "单城",
+    "factions": "",
+    "power_system_type": "现实社会（无超自然）",
+    "social_class": "",
+    "resource_distribution": "",
+    "gf_visibility": "",
+    "gf_irreversible_cost": "无（现实向短篇，靠减重病愈与经营翻身）",
+    "target_reader": "",
+    "platform": "",
+    "currency_system": "",
+    "currency_exchange": "",
+    "sect_hierarchy": "",
+    "cultivation_chain": "",
+    "cultivation_subtiers": ""
+  },
+  "progress": {
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-06-10 10:22:25",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": []
+  },
+  "protagonist_state": {
+    "name": "林小满",
+    "power": {
+      "realm": "",
+      "layer": 1,
+      "bottleneck": ""
+    },
+    "location": {
+      "current": "",
+      "last_chapter": 0
+    },
+    "golden_finger": {
+      "name": "无金手指",
+      "level": 0,
+      "cooldown": 0,
+      "skills": []
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": [],
+    "factions": [],
+    "locations": []
+  },
+  "plot_threads": {
+    "active_threads": [],
+    "foreshadowing": []
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
