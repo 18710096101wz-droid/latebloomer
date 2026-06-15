@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "title": "重生之我脑子里装了绝尘",
+    "genre": "都市",
+    "genre_label": "都市",
+    "genre_tags": {
+      "route": [],
+      "trope": [],
+      "format": [],
+      "templates": []
+    },
+    "created_at": "2026-06-15",
+    "target_words": 1500000,
+    "target_chapters": 700,
+    "golden_finger_name": "",
+    "golden_finger_type": "脑内AI（重生携带未来最强围棋AI绝尘，有人格、会嘴炮）",
+    "golden_finger_style": "",
+    "core_selling_points": "前世渣渣初段被恩师抢妻、背作弊黑锅自杀，重生脑内自带吊打绝艺的绝尘AI；先知+嘴炮AI+藏拙装杀，20冠复仇，最强反转是当年的作弊案",
+    "protagonist_structure": "",
+    "heroine_config": "",
+    "heroine_names": "",
+    "heroine_role": "",
+    "co_protagonists": "",
+    "co_protagonist_roles": "",
+    "antagonist_tiers": "",
+    "world_scale": "全球棋坛（中日韩+人机时代）",
+    "factions": "",
+    "power_system_type": "围棋战力标尺：人类→绝艺(让职业3子)→绝尘(让绝艺3子,理论让职业9子)",
+    "social_class": "",
+    "resource_distribution": "",
+    "gf_visibility": "",
+    "gf_irreversible_cost": "调用受'棋力解锁'与'藏拙'双重限速；用得越狠越像作弊，越接近前世死因",
+    "target_reader": "",
+    "platform": "",
+    "currency_system": "",
+    "currency_exchange": "",
+    "sect_hierarchy": "",
+    "cultivation_chain": "",
+    "cultivation_subtiers": ""
+  },
+  "progress": {
+    "current_chapter": 0,
+    "total_words": 0,
+    "last_updated": "2026-06-15 14:22:33",
+    "volumes_completed": [],
+    "current_volume": 1,
+    "volumes_planned": []
+  },
+  "protagonist_state": {
+    "name": "李世师",
+    "power": {
+      "realm": "",
+      "layer": 1,
+      "bottleneck": ""
+    },
+    "location": {
+      "current": "",
+      "last_chapter": 0
+    },
+    "golden_finger": {
+      "name": "未命名金手指",
+      "level": 1,
+      "cooldown": 0,
+      "skills": []
+    },
+    "attributes": {}
+  },
+  "relationships": {},
+  "disambiguation_warnings": [],
+  "disambiguation_pending": [],
+  "world_settings": {
+    "power_system": [],
+    "factions": [],
+    "locations": []
+  },
+  "plot_threads": {
+    "active_threads": [],
+    "foreshadowing": []
+  },
+  "review_checkpoints": [],
+  "chapter_meta": {},
+  "strand_tracker": {
+    "last_quest_chapter": 0,
+    "last_fire_chapter": 0,
+    "last_constellation_chapter": 0,
+    "current_dominant": "quest",
+    "chapters_since_switch": 0,
+    "history": []
+  }
+}
