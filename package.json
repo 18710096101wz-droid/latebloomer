@@ -1,0 +1,27 @@
+{
+  "name": "xqueue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "workflow": "workflow web"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "oauth-1.0a": "^2.2.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "workflow": "^4.8.9"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
